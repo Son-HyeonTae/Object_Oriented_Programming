@@ -1,3 +1,5 @@
-# oop
+# Object Oriented Programming
 
-Kyonnggi
+Kyonnggi Univ. OOP Class
+
+Assignments by Java
