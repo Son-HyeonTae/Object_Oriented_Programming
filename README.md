@@ -2,4 +2,4 @@
 
 Kyonnggi Univ. OOP Class
 
-Assignments by Java
+Assignments in Java
