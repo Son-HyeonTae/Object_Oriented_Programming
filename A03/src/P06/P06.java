@@ -83,10 +83,3 @@ public class P06 {
         scanner.close();
     }
 }
-
-
-
-
-
-
-
