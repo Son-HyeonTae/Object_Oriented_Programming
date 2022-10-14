@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class P12_2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        int answer = 0;
 
         // enter a expression
         System.out.print("연산>>");
@@ -14,6 +13,8 @@ public class P12_2 {
         int num2 = scanner.nextInt();
 
         // calculate
+        int answer = 0;
+        
         switch(operator) {
             case "+" :
                 answer = num1 + num2;
