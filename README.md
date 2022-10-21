@@ -2,6 +2,4 @@
 
 Kyonnggi Univ. OOP Class
 
-2022
-
-Assignments in Java
+2022.09.06 ~ 2022.12
